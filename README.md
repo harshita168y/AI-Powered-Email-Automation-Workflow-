@@ -18,7 +18,7 @@ Built an intelligent Gmail automation system using n8n, Gmail API, and OpenAI to
 - **Webhook / Express Server** — For edit, approve, and reject interactions  
 - **Node.js** — For backend support and hosting  
 
----
+
 
 ## 🧭 Workflow Overview
 
@@ -28,4 +28,4 @@ Built an intelligent Gmail automation system using n8n, Gmail API, and OpenAI to
 4. **Webhook Form:** If _Edit_ is selected, an editable form allows message modification.  
 5. **Send Email:** Approved or edited message is sent automatically through Gmail API.  
 
----
+
