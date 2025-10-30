@@ -13,7 +13,7 @@ Built an intelligent Gmail automation system using n8n, Gmail API, and OpenAI to
 ## 🏗️ Tech Stack
 
 - **n8n** — Workflow automation platform  
-- **OpenAI GPT API** — For AI-generated email replies  
+- **Gemini API** — For AI-generated email replies  
 - **Gmail API** — To fetch, draft, and send emails  
 - **Webhook** — For edit, approve, and reject interactions  
   
